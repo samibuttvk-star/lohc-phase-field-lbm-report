@@ -2,9 +2,7 @@
 
 Simulation report for a two-composition phase-field system transported through a catalyst-packed domain. The case combines a lattice-Boltzmann flow model, Flory–Huggins free energy, and a catalyst-localized surface reaction.
 
-[Open the complete interactive report](https://YOUR-GITHUB-USERNAME.github.io/lohc-phase-field-lbm-report/)
-
-> Replace `YOUR-GITHUB-USERNAME` after publishing the repository with GitHub Pages.
+[Open the complete interactive report](https://samibuttvk-star.github.io/lohc-phase-field-lbm-report/)
 
 ## Case overview
 
